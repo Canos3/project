@@ -1,0 +1,22 @@
+
+h1{
+   font-size: 40px;
+   font-family: sans-serif;
+   color: rgb(182, 34, 34);
+   border-style: ridge;
+   border-color: black;
+   border-radius: 40px;
+   width: 300px;
+   text-align: center;
+
+}
+p{
+   font-family: sans-serif;
+
+}
+img{
+   border-style: ridge;
+   border-radius: 40px;
+   border-color: black;
+}
+

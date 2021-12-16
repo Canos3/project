@@ -1,0 +1,28 @@
+h2{
+    font-family: sans-serif;
+    font-size: 50px;
+    color:rgb(70, 109, 235);
+    text-align: center;
+   border-style: solid;
+  
+   border-radius:30px;
+   
+}
+strong{
+    color: rgb(70, 109, 248);
+}
+h3{
+    color: rgb(70, 109, 248);
+    font-family: sans-serif;
+    
+}
+img{
+    border-image: 40px;
+    border-radius: 100px;
+    border-style: ridge;
+    border-color: black;
+    float: inline-end;
+}
+p{
+    font-family: sans-serif;
+}
