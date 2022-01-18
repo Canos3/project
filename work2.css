@@ -1,0 +1,89 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(129, 129, 126);
+
+}
+.site-header {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: cadetblue;
+   
+}
+.site-nav{
+    font-family: monospace;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: blanchedalmond;
+    
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    margin: 30px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+
+}
+a:hover{
+    color: red;
+   
+    
+}
+
+.web-image img{
+width: 1350px;
+height: 760px;
+
+margin-left: -10px;
+}
+.text{
+    text-align: center;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-family: monospace;
+}
+.textup{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 250px;
+    font-family: cursive;
+}
+.thick{
+    color: black;
+    width: 50px;
+}
+.mop{
+    font-family: monospace;
+    padding-left: 30px;
+}
+ .mud{
+     display: flex;
+ }
+ .math{
+     padding-left: 20px;
+ }
+ .textin{
+     font-size: 20px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-style: italic;
+ }
+ .texter{
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 15px;
+ }
+ .qwerty{
+     padding-left: 20px;
+ }
+ .zone{
+     padding-left: 20px;
+ }
+ .vim6{
+     padding-left: 20px;
+ }
